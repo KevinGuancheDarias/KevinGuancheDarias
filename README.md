@@ -5,4 +5,4 @@
 
 Recently programming in:
 
-![recent](https://github-readme-stats.vercel.app/api/wakatime?username=kevinguanchedarias)
+![recent](https://github-readme-stats.vercel.app/api/wakatime?username=kevinguanchedarias&range=all_time)
